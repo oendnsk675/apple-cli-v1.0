@@ -1,6 +1,6 @@
-# Amazon Cli V3
+# Apple Cli V3
 
-Tool amazon cli v3 dari eastlombok team,di buat oleh sayidina ahmadal qososyi,tool yang di gunakan untuk auto cek akun amazon target dengan emailnya.
+Tool apple cli v3 dari eastlombok team,di buat oleh sayidina ahmadal qososyi,tool yang di gunakan untuk auto cek akun apple target dengan emailnya.
 
 ## Installation on termux
 
@@ -10,7 +10,7 @@ Tool amazon cli v3 dari eastlombok team,di buat oleh sayidina ahmadal qososyi,to
 ```
 2. clone tool di github.
 ```bash
-git clone https://github.com/oendnsk675/amazon-cli-v3.0.git
+git clone https://github.com/oendnsk675/apple-cli-v1.0.git
 ```
 3. done.... tinggal di buka toolnya.
 
@@ -23,7 +23,7 @@ kalau kurang jelas bisa cek di channel youtube eastlombok team :
 2. setelah install xampp di device kalian,buka folder xampp/htdocs.
 2. clone tool di github di dalam folder github.
 ```bash
-git clone https://github.com/oendnsk675/amazon-cli-v3.0.git
+git clone https://github.com/oendnsk675/apple-cli-v1.0.git
 ```
 4. atau juga bisa download zipnya.
 5. done.... tinggal di buka toolnya.
