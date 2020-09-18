@@ -41,9 +41,3 @@ php run.php
 kalau kurang jelas bisa cek di channel youtube eastlombok team :
 [click here](https://www.youtube.com/channel/UCNhysDQ6QCYOtjmWK4WU3hw)
 
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
