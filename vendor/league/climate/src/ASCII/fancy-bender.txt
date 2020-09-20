@@ -1,17 +1,5 @@
-<blue>     ( )</blue>
-<blue>      H</blue>
-<blue>      H</blue>
-<blue>     _H_</blue>
-<blue>  .-'-.-'-.</blue>
-<blue> /         \</blue>
-<blue>|           |</blue>
-<blue>|   .-------'._</blue>
-<blue>|  /<white>/  '.' '.</white> \</blue>
-<blue>|  \<white>\ <black><blink>@   @</blink></black> /</white> /</blue>
-<blue>|   '---------'</blue>
-<blue>|    _______|</blue>
-<blue>|  .'<black>-+-+-+</black>|</blue>
-<blue>|  '.<black>-+-+-+</black>|</blue>
-<blue>|    """""" |</blue>
-<blue>'-.__   __.-'</blue>
-<blue>     """</blue>
+<blue>                   __  __                __          __ </blue>   
+<red>  ___  ____ ______/ /_/ /___  ____ ___  / /_  ____  / /__</red>  
+<yellow> / _ \/ __ `/ ___/ __/ / __ \/ __ `__ \/ __ \/ __ \/ //_/</yellow>  
+<green>/  __/ /_/ (__  ) /_/ / /_/ / / / / / / /_/ / /_/ / ,<</green>     
+<cyan>\___/\__,_/____/\__/_/\____/_/ /_/ /_/_.___/\____/_/|_|</cyan>  
